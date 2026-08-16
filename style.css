@@ -60,7 +60,7 @@ a:hover {
 @media (max-width: 600px) {
 
     body {
-        padding: 25px 15px;
+        padding: 20px 10px;
     }
 
     img {
@@ -85,9 +85,9 @@ a:hover {
 
     a {
         width: 100%;
-        max-width: 360px;
-        font-size: 16px;
-        padding: 14px 18px;
+        max-width: 460px;
+        font-size: 17px;
+        padding: 15px 18px;
         margin: 10px auto;
     }
 }
