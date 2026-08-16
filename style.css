@@ -58,11 +58,10 @@ a:hover {
    ========================= */
 
 @media (max-width: 600px) {
-
     body {
-        padding: 30px 10px;
+        background-color: red;
     }
-
+    }
     img {
         width: 140px;
         height: 140px;
