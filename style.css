@@ -58,9 +58,9 @@ a:hover {
    ========================= */
 
 @media (max-width: 600px) {
+
     body {
-        background-color: red;
-    }
+        padding: 30px 10px;
     }
     img {
         width: 140px;
@@ -91,4 +91,7 @@ a:hover {
         padding: 17px 20px;
         margin: 12px auto;
     }
+}
+body {
+    background-color: red;
 }
