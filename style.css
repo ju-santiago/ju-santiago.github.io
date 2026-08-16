@@ -61,6 +61,7 @@ a:hover {
 
     body {
         padding: 30px 10px;
+        background-color: #111827;
     }
     img {
         width: 140px;
@@ -91,7 +92,4 @@ a:hover {
         padding: 17px 20px;
         margin: 12px auto;
     }
-}
-body {
-    background-color: red;
 }
